@@ -4,7 +4,7 @@ game "gta5"
 description "BetaScripts Mil-Goggles"
 
 author "BetaScripts"
-version "0.0.1"
+version "0.0.2"
 
 client_scripts {
   "config.lua",

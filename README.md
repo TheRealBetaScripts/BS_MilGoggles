@@ -5,6 +5,20 @@
 
 A versatile script that allows players to equip customizable military goggles with night and heat vision features.
 
+## UPDATES
+
+ Update Log for BS_MilGoggles 
+
+We’re excited to bring you the latest improvements to BS_MilGoggles! Here’s what’s new:
+
+    Helmet Integration: Natively checks for configured helmets, ensuring seamless integration.
+    Helmet Removal Detection: Now natively detects when a helmet is removed for a smoother experience.
+    SkinChangeFunction Example: Added a simple example using Illenium to simplify customization.
+    Overlay Retention: Keeps the current overlay active when entering a vehicle, maintaining consistency.
+    Helmet Reapplication Option: Added an option to allow putting the helmet back on automatically when entering a vehicle.
+
+Make sure to update your script to enjoy these new features and improvements!
+
 ## 🌟 Features
 
 - **Configurable Goggles**: Add clothing items as military goggles, fully customizable through the config.
